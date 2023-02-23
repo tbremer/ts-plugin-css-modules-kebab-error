@@ -1,0 +1,15 @@
+.root {
+    display: flex;
+}
+
+.testCamel {
+    display: block;
+}
+
+.test-kebab {
+    display: inline;
+}
+
+.test_snake {
+    display: inline-flex;
+}
