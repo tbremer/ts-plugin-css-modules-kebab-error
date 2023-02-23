@@ -1,6 +1,6 @@
 # ts-plugin-css-modules-kebab-error
 
-## Recreation:
+## Re-creation:
 
 1. In VSCode disable all extensions
 2. [Set your typescript compiler to the workspace version](https://code.visualstudio.com/docs/typescript/typescript-compiling#_using-the-workspace-version-of-typescript).
